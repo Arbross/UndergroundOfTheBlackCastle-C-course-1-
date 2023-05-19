@@ -1,6 +1,0 @@
-﻿  Function.cpp
-C:\Users\victor\source\repos\Underground_of_the_black_castle\Underground_of_the_black_castle\Function.cpp(11,19): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
-C:\Users\victor\source\repos\Underground_of_the_black_castle\Underground_of_the_black_castle\Function.cpp(11,22): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
-C:\Users\victor\source\repos\Underground_of_the_black_castle\Underground_of_the_black_castle\Function.cpp(323,79): error C2678: бинарный "==": не найден оператор, принимающий левый операнд типа "std::string" (или приемлемое преобразование отсутствует)
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\guiddef.h(192,15): message : может быть "bool operator ==(const GUID &,const GUID &)"
-C:\Users\victor\source\repos\Underground_of_the_black_castle\Underground_of_the_black_castle\Function.cpp(323,79): message : при попытке сопоставить список аргументов "(std::string, int)"
